@@ -3,7 +3,7 @@
 ## Project Description
 
 The Sorting Algorithm Visualizer is an application that allows users to interactively visualize various sorting algorithms in action. Sorting algorithms are fundamental in computer science and are essential for organizing data efficiently. This project aims to make these algorithms more accessible and understandable by providing a visual representation of how they work.
-Personal goals:
+<\n>Personal goals:
 - Get a better understanding of sorting algorithms while coding the application.
 - Develop my own coding skills.
 - Study software engineering concepts and ideas.
