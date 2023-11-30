@@ -3,6 +3,7 @@ import random
 import math
 import time
 
+##-----##
 # Start pygame
 pygame.init()
 
